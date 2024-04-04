@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.img{
+  background-image: url("../src/image/doctor-6701410_1280.webp");
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.bg-dark {
+  
+  background-color: teal !important;
+}
+img.card-img-top {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+
+
+}
+.services {
+  text-align: center;
+  padding: 30px;
+}
+div{
+  padding: 20px;
+}
+.card {
+  text-align: center;
+  align-items: center;
+}
+.hallimage{
+  background-image: url("..src/image/hall.jpg");
+}
